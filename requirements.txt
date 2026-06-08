@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+pulp>=2.8
+requests>=2.31
+geopy>=2.4
+jupyter>=1.0
