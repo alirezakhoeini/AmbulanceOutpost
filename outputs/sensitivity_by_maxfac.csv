@@ -1,0 +1,8 @@
+MaxFac,OpenedFacilities,AvgWeightedDistance_km,MaxDistance_km,CoverageWithin3km,CoverageWithin4km,CoverageWithin5km
+1,F4,5.3331,14.4,0.1887,0.5594,0.7443
+2,F4;F7,3.2829,5.0,0.2986,0.6694,1.0
+3,F2;F3;F7,2.4147,5.0,0.5668,0.8543,1.0
+4,F2;F3;F6;F7,2.0589,3.6,0.7125,1.0,1.0
+5,F2;F3;F4;F6;F7,1.7406,3.4,0.9012,1.0,1.0
+6,F1;F2;F3;F4;F6;F7,1.7406,3.4,0.9012,1.0,1.0
+7,F1;F2;F3;F4;F5;F6;F7,1.7406,3.4,0.9012,1.0,1.0
