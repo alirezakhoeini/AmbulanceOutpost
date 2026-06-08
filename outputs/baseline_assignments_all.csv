@@ -1,0 +1,71 @@
+MaxFac,demand_name,assigned_facility,distance_km,population
+1,Ayazaga,F4,3.2,35931
+1,Zekeriyakoy,F4,14.4,19896
+1,Resitpasa,F4,1.2,18223
+1,Tarabya,F4,4.6,17871
+1,Fatih Sultan Mehmet,F4,2.5,15920
+1,Istinye,F4,3.2,15863
+1,Yenikoy,F4,4.8,15590
+1,Ferahevler,F4,3.1,15286
+1,Maden,F4,9.5,13619
+1,Merkez,F4,9.2,12750
+2,Ayazaga,F4,3.2,35931
+2,Zekeriyakoy,F7,1.8,19896
+2,Resitpasa,F4,1.2,18223
+2,Tarabya,F4,4.6,17871
+2,Fatih Sultan Mehmet,F4,2.5,15920
+2,Istinye,F4,3.2,15863
+2,Yenikoy,F4,4.8,15590
+2,Ferahevler,F4,3.1,15286
+2,Maden,F7,4.6,13619
+2,Merkez,F7,5.0,12750
+3,Ayazaga,F3,0.4,35931
+3,Zekeriyakoy,F7,1.8,19896
+3,Resitpasa,F3,3.4,18223
+3,Tarabya,F2,3.4,17871
+3,Fatih Sultan Mehmet,F2,3.6,15920
+3,Istinye,F2,0.4,15863
+3,Yenikoy,F2,2.0,15590
+3,Ferahevler,F2,2.8,15286
+3,Maden,F7,4.6,13619
+3,Merkez,F7,5.0,12750
+4,Ayazaga,F3,0.4,35931
+4,Zekeriyakoy,F7,1.8,19896
+4,Resitpasa,F3,3.4,18223
+4,Tarabya,F2,3.4,17871
+4,Fatih Sultan Mehmet,F2,3.6,15920
+4,Istinye,F2,0.4,15863
+4,Yenikoy,F2,2.0,15590
+4,Ferahevler,F2,2.8,15286
+4,Maden,F6,2.4,13619
+4,Merkez,F6,2.3,12750
+5,Ayazaga,F3,0.4,35931
+5,Zekeriyakoy,F7,1.8,19896
+5,Resitpasa,F4,1.2,18223
+5,Tarabya,F2,3.4,17871
+5,Fatih Sultan Mehmet,F4,2.5,15920
+5,Istinye,F2,0.4,15863
+5,Yenikoy,F2,2.0,15590
+5,Ferahevler,F2,2.8,15286
+5,Maden,F6,2.4,13619
+5,Merkez,F6,2.3,12750
+6,Ayazaga,F3,0.4,35931
+6,Zekeriyakoy,F7,1.8,19896
+6,Resitpasa,F4,1.2,18223
+6,Tarabya,F2,3.4,17871
+6,Fatih Sultan Mehmet,F4,2.5,15920
+6,Istinye,F2,0.4,15863
+6,Yenikoy,F2,2.0,15590
+6,Ferahevler,F2,2.8,15286
+6,Maden,F6,2.4,13619
+6,Merkez,F6,2.3,12750
+7,Ayazaga,F3,0.4,35931
+7,Zekeriyakoy,F7,1.8,19896
+7,Resitpasa,F4,1.2,18223
+7,Tarabya,F2,3.4,17871
+7,Fatih Sultan Mehmet,F4,2.5,15920
+7,Istinye,F2,0.4,15863
+7,Yenikoy,F2,2.0,15590
+7,Ferahevler,F2,2.8,15286
+7,Maden,F6,2.4,13619
+7,Merkez,F6,2.3,12750
