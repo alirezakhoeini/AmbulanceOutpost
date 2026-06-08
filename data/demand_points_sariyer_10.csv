@@ -1,11 +1,11 @@
-demand_id	name_en	name_tr	year	population	lat	lon
-D1	Ayazaga	Ayaza?a Mah.	2019	35931	41.119395	29.000402
-D2	Zekeriyakoy	Zekeriyak�y Mah.	2019	19896	41.20834	29.021971
-D3	Resitpasa	Re?itpa?a Mah.	2019	18223	41.104666	29.023686
-D4	Tarabya	Tarabya Mah.	2019	17871	41.138794	29.053879
-D5	Fatih Sultan Mehmet	Fatih Sultan Mehmet Mah.	2019	15920	41.095615	29.033631
-D6	Istinye	?stinye Mah.	2019	15863	41.115971	29.058074
-D7	Yenikoy	Yenik�y Mah.	2019	15590	41.122731	29.070965
-D8	Ferahevler	Ferahevler Mah.	2019	15286	41.131928	29.041644
-D9	Maden	Maden Mah.	2019	13619	41.172775	29.05352
-D10	Merkez	Sar?yer Merkez Mah.	2019	12480	41.170135	29.055316
+demand_id,name_en,name_tr,year,population,lat,lon
+D1,Ayazaga,Ayazağa Mah.,2019,35931,41.119395,29.000402
+D2,Zekeriyakoy,Zekeriyaköy Mah.,2019,19896,41.208340,29.021971
+D3,Resitpasa,Reşitpaşa Mah.,2019,18223,41.108600,29.046700
+D4,Tarabya,Tarabya Mah.,2019,17871,41.134900,29.056300
+D5,Fatih Sultan Mehmet,Fatih Sultan Mehmet Mah.,2019,15920,41.118200,29.030400
+D6,Istinye,İstinye Mah.,2019,15863,41.117700,29.065400
+D7,Yenikoy,Yeniköy Mah.,2019,15590,41.125400,29.060200
+D8,Ferahevler,Ferahevler Mah.,2019,15286,41.168100,29.041700
+D9,Maden,Maden Mah.,2019,13619,41.171800,29.054200
+D10,Merkez,Merkez Mah.,2019,12750,41.166600,29.049000
